@@ -13,8 +13,11 @@ This Template is filled with the following Gems:
 * [Dropbox](https://github.com/janko-m/paperclip-dropbox) => Dropbox is used with paperclip as a storage space
 * [Mail_Form](https://github.com/plataformatec/mail_form) => This is to make creating contact or information request forms easy
 * [Mailcatcher](https://rubygems.org/gems/mailcatcher/versions/0.5.12) => Allows for sending of email on local host for testing
+* [Rename App](https://github.com/morshedalam/rename) => This is a gem to rename this app to yours.
 
 I have also set _config.serve_static_assets = true_ to true so that if you are using heroku it will play nice.
+Don't forget in  your databse.yml file you will need to edit it to match your site.
+Also if you need it I have included a gem to help you quickly rename your application after you clone it. 
 
 As I find more use full and time saving gems I will update them here.
 
