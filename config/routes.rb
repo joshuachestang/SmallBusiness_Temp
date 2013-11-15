@@ -2,6 +2,9 @@ SmallBusinessTemp::Application.routes.draw do
   
   root 'home#index'
   
+  resources :dashboard
+    
+  
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
