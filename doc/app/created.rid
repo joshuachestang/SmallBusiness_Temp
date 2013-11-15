@@ -1,0 +1,7 @@
+Thu, 14 Nov 2013 20:33:53 -0700
+README.rdoc	Thu, 14 Nov 2013 18:11:26 -0700
+app/controllers/application_controller.rb	Thu, 14 Nov 2013 19:36:38 -0700
+app/controllers/home_controller.rb	Thu, 14 Nov 2013 19:40:24 -0700
+app/helpers/application_helper.rb	Thu, 14 Nov 2013 18:11:26 -0700
+app/helpers/home_helper.rb	Thu, 14 Nov 2013 19:40:25 -0700
+app/models/user.rb	Thu, 14 Nov 2013 19:36:38 -0700
