@@ -21,9 +21,6 @@ Don't forget in  your databse.yml file you will need to edit it to match your si
 Also if you need it I have included a gem to help you quickly rename your application after you clone it. 
 
 As I find more use full and time saving gems I will update them here.
-
-<p>Built into this template is an Admin Dashboard. Just something vary basic to allow the developer or client to edit the content
-	and images / files on their site.</p>
 	
 <p>This is by no means a full CMS and at this time is not my intent. I just wanted to make implementing	additional sites fast and easy
 	while at the same time allowing my client the easy ability to update their site with out having to learn new software or remember 
