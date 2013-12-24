@@ -31,3 +31,4 @@ As I find more use full and time saving gems I will update them here.
 <p>If you are a developer and like what you see here fell free to cloan it and use to your harts content. Or if you are looking for a RoR CMS and 
 	think this would be a good start then lets talk. If you have a gem that you thing would be of good use here let me know and I will look it over
 	and consider adding it.</p>
+	
