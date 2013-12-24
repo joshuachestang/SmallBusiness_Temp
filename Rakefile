@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-SmallBusinessTemp::Application.load_tasks
+EcommerceTemp::Application.load_tasks

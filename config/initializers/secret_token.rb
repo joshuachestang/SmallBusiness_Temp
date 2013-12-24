@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-SmallBusinessTemp::Application.config.secret_key_base = '6be4fc02512d3955ff744acf3e5e2d7974e39793528fef1e093f1214a11325dda10b46c6bf0f323c5bf2475878ae63f6d6ceedeef7676f25101a854a6e1adc65'
+EcommerceTemp::Application.config.secret_key_base = '6be4fc02512d3955ff744acf3e5e2d7974e39793528fef1e093f1214a11325dda10b46c6bf0f323c5bf2475878ae63f6d6ceedeef7676f25101a854a6e1adc65'

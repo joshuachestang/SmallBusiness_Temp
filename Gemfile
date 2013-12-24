@@ -9,9 +9,6 @@ gem 'rename'
 # Use sqlite3 as the database for Active Record
 gem 'pg'
 
-# clearance*
-gem 'clearance'
-
 #MailForm
 gem 'mail_form'
 
@@ -19,7 +16,7 @@ gem 'mail_form'
 gem 'sass-rails'
 
 # paper clip to uploae files*
-gem "paperclip", :git => "git://github.com/thoughtbot/paperclip.git"
+gem "paperclip", "~> 3.4"
 
 # need to store uploaded images with heroku*
 gem "paperclip-dropbox", ">= 1"
@@ -64,3 +61,7 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+gem 'spree', github: 'spree/spree'
+gem 'spree_auth_devise', github: 'spree/spree_auth_devise'
+gem 'spree_gateway', github: 'spree/spree_gateway'
